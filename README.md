@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Münire</h1>
-<h3 align="center">A third-year computer engineering student</h3>
+
 
 - 🌱 I’m currently learning **OpenCv, image processing**
 
